@@ -1,0 +1,1 @@
+web: java -jar target/numbers-1.0.0.war
